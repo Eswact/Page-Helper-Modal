@@ -1,0 +1,28 @@
+{
+  "data": {
+    "page": "This is a Header",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, labore a at est quasi exercitationem amet, dignissimos voluptatum placeat rem temporibus enim saepe repellat similique odio autem natus. Dolor, voluptates. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, labore a at est quasi exercitationem amet, dignissimos voluptatum placeat rem temporibus enim saepe repellat similique odio autem natus.",
+    "shortcuts": [
+      {
+        "shortcut": [
+          {
+            "key": "https://www.wpclipart.com/computer/keyboard_keys/computer_key_Ctrl.png"
+          },
+          {
+            "key": "https://www.wpclipart.com/computer/keyboard_keys/letters/computer_key_K.png"
+          }
+        ],
+        "shortcutDescription": "Used to focus filter."
+      },
+      {
+        "shortcut": [
+          {
+            "key": "https://www.wpclipart.com/computer/keyboard_keys/function_key_row/computer_key_Esc.png"
+          }
+        ],
+        "shortcutDescription": "Used to cancel."
+      }
+    ],
+    "link": "https://www.youtube.com/embed/qU9mHegkTc4?si=94qzab9dVs8vLcy3"
+  }
+}
